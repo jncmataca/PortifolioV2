@@ -27,6 +27,10 @@ Este é o repositório do meu portfólio desenvolvido com as tecnologias mais mo
 1. Clone o repositório:
    ```bash
    https://github.com/jncmataca/PortifolioV2.git
+
+2.para rodar
+npm run dev
+
   # 🌐 Meu Portfólio Pessoal
 
 Este é o repositório do meu portfólio desenvolvido com as tecnologias mais modernas do ecossistema web, incluindo:
@@ -50,12 +54,4 @@ Este é o repositório do meu portfólio desenvolvido com as tecnologias mais mo
 | **shadcn/ui** | Componentes reutilizáveis e acessíveis |
 
 ---
-
-## 🧪 Como Rodar o Projeto Localmente
-
-1. Clone o repositório:
-   ```bash
-  https://github.com/jncmataca/PortifolioV2.git
-
-  2.npm run dev
 
