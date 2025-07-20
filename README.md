@@ -30,11 +30,3 @@ Este é o repositório do meu portfólio desenvolvido com as tecnologias mais mo
 
 2.para rodar
 npm run dev
-
-iblioteca para criação de interfaces |
-| **TypeScript** | Tipagem estática para JS |
-| **TailwindCSS** | Estilização com classes utilitárias |
-| **shadcn/ui** | Componentes reutilizáveis e acessíveis |
-
----
-
